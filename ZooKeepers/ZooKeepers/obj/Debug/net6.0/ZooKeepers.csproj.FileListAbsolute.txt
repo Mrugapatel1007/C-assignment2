@@ -1,0 +1,15 @@
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\bin\Debug\net6.0\ZooKeepers.exe
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\bin\Debug\net6.0\ZooKeepers.deps.json
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\bin\Debug\net6.0\ZooKeepers.runtimeconfig.json
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\bin\Debug\net6.0\ZooKeepers.dll
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\bin\Debug\net6.0\ZooKeepers.pdb
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.csproj.AssemblyReference.cache
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.AssemblyInfoInputs.cache
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.AssemblyInfo.cs
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.csproj.CoreCompileInputs.cache
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.dll
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\refint\ZooKeepers.dll
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.pdb
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ZooKeepers.genruntimeconfig.cache
+C:\Users\Mruga\source\repos\ZooKeepers\ZooKeepers\obj\Debug\net6.0\ref\ZooKeepers.dll
