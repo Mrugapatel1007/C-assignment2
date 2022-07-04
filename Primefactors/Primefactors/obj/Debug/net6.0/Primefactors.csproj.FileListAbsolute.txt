@@ -1,0 +1,15 @@
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\bin\Debug\net6.0\Primefactors.exe
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\bin\Debug\net6.0\Primefactors.deps.json
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\bin\Debug\net6.0\Primefactors.runtimeconfig.json
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\bin\Debug\net6.0\Primefactors.dll
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\bin\Debug\net6.0\Primefactors.pdb
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.csproj.AssemblyReference.cache
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.AssemblyInfoInputs.cache
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.AssemblyInfo.cs
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.csproj.CoreCompileInputs.cache
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.dll
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\refint\Primefactors.dll
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.pdb
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\Primefactors.genruntimeconfig.cache
+C:\Users\Mruga\source\repos\Primefactors\Primefactors\obj\Debug\net6.0\ref\Primefactors.dll
